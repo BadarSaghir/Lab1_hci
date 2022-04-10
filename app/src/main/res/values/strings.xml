@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="traveler">traveler</string>
+    <string name="visit_pakistan">Planning to visit Pakistan</string>
+    <string name="visit_pakistan_now">now</string>
+    <string name="visit_pakistan_now_visit">visit</string>
+
+
+    <string name="visit_pakistan_description"> Find the vendors in a heritage place  you are visiting</string>
+
+</resources>
